@@ -1,2 +1,2 @@
 # scrapping
-random scripts for scrappings web with playwright
+random scripts for web scraping with playwright
